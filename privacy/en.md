@@ -2,97 +2,116 @@
 
 Last Updated: July 21, 2026
 
-LiveTong values your privacy. This Privacy Policy explains how the LiveTong app handles user data and how you can manage locally stored data.
+LiveTong ("the App", "we", "us", or "our") values your privacy. This Privacy Policy explains how we process information related to the operation of LiveTong.
 
 ## 1. Scope
 
-This Privacy Policy applies to the LiveTong app.
+This Privacy Policy applies when you use LiveTong through its iOS application.
 
-LiveTong organizes publicly available information about live music events in Japan and provides links to original source pages. LiveTong does not sell tickets, purchase tickets on behalf of users, issue tickets, process payments, handle refunds or changes, or provide ticket resale services. LiveTong does not represent event organizers, venues, or ticketing platforms.
+LiveTong organizes publicly available information about Japanese live music events and provides links to original source pages. LiveTong does not sell tickets, purchase tickets on behalf of users, issue tickets, process changes or refunds, operate ticket resale services, process payments, or represent any organizer, venue, artist, ticketing platform, or other third party.
 
-## 2. Information We Collect
+## 2. Information We Process
 
-The current version of LiveTong does not require account registration or sign-in. We do not ask you to provide your name, phone number, email address, contacts, precise location, photos, microphone data, camera data, or similar personal information.
+### 2.1 Public Event Information
 
-The app retrieves publicly available event information from LiveTong servers, including but not limited to:
+To provide event browsing, search, filtering, event details, and source-traceability features, we collect and process publicly available information from accessible sources, including:
 
-- Event titles;
-- Artist names;
-- Event dates and times;
-- Venues and cities;
-- Ticketing platforms;
-- Ticketing stages and statuses;
-- Event images;
-- Data sources and original links.
+- event titles, artist names, dates, times, venues, cities, and countries or regions;
+- ticketing stages, ticketing platforms, public source links, and source names;
+- publicly displayed event posters, promotional images, or image links;
+- artist, venue, city, and ticketing-platform name mappings used to present information consistently;
+- public source records associated with event information.
 
-## 3. Information Stored on Your Device
+This information may come from ticketing platforms, venues, organizers, artists' official websites, and other public information pages. The accuracy, completeness, timeliness, and ticketing status of event information are subject to the original source pages.
 
-When you follow artists or cities, add events to your wishlist, or use the Planner feature, LiveTong stores necessary event text, follow preferences, and planning information locally on your device. This information is used to display followed events, your wishlist, and the Planner.
+### 2.2 Information Stored on Your Device
 
-This locally stored information is not uploaded to LiveTong servers by default.
+The following information is currently stored only on your device and is not actively uploaded to our servers through these features:
 
-You may unfollow an artist or city, remove an event from your wishlist, or remove related planning records in the app. The related information will be removed from your device. If you uninstall the app, local caches, follows, wishlist items, and Planner data will normally be deleted together with the app data.
+- artists and cities you follow;
+- events added to your wishlist;
+- local planning-related data used in the Planner feature;
+- local display and cache data associated with these features.
 
-## 4. Images, Photo Permission, and Network Requests
+You may unfollow artists or cities and remove wishlist items within the App. Uninstalling the App will generally remove this local data. Please note that local data may be backed up or restored through Apple's iOS backup and restore services, depending on your device settings.
 
-Event images are generally provided and cached by LiveTong servers. If cached content is unavailable, or if certain sources have not yet been cached, the app may load image resources provided by publicly available source pages. To improve loading performance, the app may temporarily cache images on your device.
+### 2.3 Technical Logs
 
-When you actively choose “Save Share Image,” the app requests permission to save the event image you generated to your system photo library. LiveTong does not read, scan, or upload other content in your photo library.
+To maintain service stability and security, troubleshoot errors, and prevent abnormal access, our servers may record necessary technical logs, including:
 
-When the app requests data from LiveTong servers, our servers may automatically log necessary technical information, such as IP address, request time, request path, app version, device operating system version, API response status, and error information. We use this information only for service operation, security protection, detection of abnormal access, and troubleshooting. Technical logs are generally retained for no more than 90 days, except where a longer period is required by law or necessary in connection with a security incident.
+- access time;
+- request paths, request methods, and response status;
+- IP addresses and basic network-access information;
+- App version, operating system version, device type, and similar technical information;
+- error information, performance information, and security-related events.
 
-## 5. How We Use Information
+We do not use these technical logs for targeted advertising or cross-app tracking.
 
-We use relevant information to:
+### 2.4 Share Images and Photo Library Permission
 
-- Display publicly available information about live music events in Japan;
-- Support filters for city, date, artist, ticketing stage, and ticketing platform;
-- Support follows, wishlist items, and the Planner;
-- Improve image loading speed and service stability;
-- Troubleshoot errors, abnormal access, and service failures;
-- Process requests to correct or remove event information, and copyright-related feedback.
+When you actively use features such as “Save Share Image,” the App may request permission to add content to your system photo library in order to save an event share image that you choose to generate.
 
-## 6. Third-Party Services and Links
+This permission is used only to complete the save action you initiate. We do not use it to read your entire photo library, and we do not upload content from your photo library to our servers.
 
-The current version of LiveTong does not include advertising SDKs and does not conduct cross-app or cross-site tracking.
+### 2.5 Third-Party Pages and System Sharing
 
-Ticket links, venue links, and source links may direct you to third-party ticketing platforms or official websites of venues, organizers, or artists. Your use of those third-party websites is governed by their own terms and privacy policies. LiveTong does not control their data practices.
+When you select “Go to Ticket Page,” “Source Link,” or “Share with Friends,” you may be directed to a third-party website or invoke the iOS system share sheet.
 
-Ticket eligibility, ticketing stages, prices, seating, event times, and venue arrangements are subject to the real-time information shown by the organizer or ticketing platform.
+Third-party websites, third-party apps, Apple, and Apple's system services process information according to their own privacy policies. We recommend that you review their applicable privacy policies and terms before using them.
 
-When you actively choose “Share with Friends,” LiveTong invokes the iOS system share sheet. You choose the destination app or recipient. LiveTong does not obtain your account information, contact information, or subsequent content from the destination app.
+## 3. How We Use Information
 
-## 7. Data Sources and Copyright Feedback
+We process information only as necessary to:
 
-Event information is primarily collected from publicly available pages of ticketing platforms, venue websites, organizer pages, and artist websites. Event detail pages identify the data source and provide an original link where available.
+- provide event browsing, search, filtering, detail display, source traceability, and outbound-link features;
+- display follow, wishlist, and Planner information stored on your device;
+- generate, save, or share event images;
+- maintain service stability, troubleshoot errors, prevent misuse, and protect security;
+- handle copyright matters, content corrections, complaints, disputes, or legal obligations.
 
-Rights in images, posters, and text generally belong to the original source or applicable rights holder. LiveTong uses relevant publicly available information only as necessary to organize, display, and link to event information.
+## 4. Sharing and Disclosure
 
-If you believe that event information, images, or links are inaccurate, or raise concerns involving copyright, portrait rights, trademarks, or other rights, please contact us using the details below. Please include the event name, relevant page link, source link, your specific request, and materials demonstrating your rights or authorization. We will review complete submissions and respond as soon as reasonably possible.
+We do not sell, rent, or trade your personal information except in the following circumstances:
 
-## 8. Data Sharing
+- to obtain necessary technical support from service providers that provide server, network, storage, security, or operational services;
+- to comply with applicable law, respond to legally valid requests, protect the safety of users or the public, resolve disputes, or protect our legitimate rights and interests;
+- when you actively choose or expressly authorize an action, such as visiting a third-party page, using a system sharing feature, or saving a share image.
 
-We do not sell or rent personal data, and we do not use personal data for targeted advertising or cross-app or cross-site tracking.
+The App currently does not integrate advertising SDKs and does not conduct cross-app or cross-site tracking.
 
-To the extent necessary to provide server hosting, network transmission, image storage, troubleshooting, and security protection, we may engage technical service providers to process necessary technical data. We require such providers to process the information only for service provision and security purposes.
+## 5. Storage and Retention
 
-Except where required by law or necessary to protect our services and users, we do not provide personal data to other third parties.
+We apply the following retention rules based on the type of information and the purpose of processing:
 
-## 9. Children's Privacy
+1. Regular access logs, API logs, and application error logs are retained for no more than 90 days. They are compressed daily, and expired records are deleted automatically.
+2. Records related to security anomalies and attack investigations are retained for no more than 180 days. If a longer period is necessary for legal obligations, dispute handling, or a security incident investigation, we may retain the relevant records for a longer period only to the extent necessary.
+3. Backup copies of public event information and image-cache data on our servers are retained for no more than 30 days and are deleted automatically after expiration.
+4. Follow, wishlist, and Planner data are stored only on your device. You may unfollow, remove wishlist items, or uninstall the App to remove this local data.
+5. Public event information, source records, and complaint-handling records may be retained for as long as necessary for content traceability, copyright handling, or legal obligations. When no longer needed, they will be deleted or de-identified.
 
-LiveTong is intended for general users seeking event information and is not directed primarily to children. We do not knowingly collect personal information from children.
+## 6. Security
 
-## 10. Changes to This Privacy Policy
+We use reasonable technical and organizational measures appropriate to the scale of our service to protect our servers and related information. These measures include access controls, log rotation, backup cleanup, and abnormal-access investigation.
 
-We may update this Privacy Policy based on changes to product features, data processing practices, or legal requirements. Updated versions will be made available through the app or a public privacy policy page.
+However, no method of internet transmission or electronic storage is completely secure. Please protect your device and install operating-system and App updates in a timely manner.
 
-## 11. Contact Us
+## 7. Your Choices and Rights
 
-If you have questions about this Privacy Policy, our data practices, requests to correct or remove event information, or copyright-related feedback, please contact us:
+You may:
 
-Operator: LiveTong Development Team  
-Email: du.o@live.cn
+- manage or delete follow, wishlist, and Planner data stored on your device through the App;
+- manage system permissions, including photo-library permissions, in iOS Settings;
+- choose not to visit third-party ticketing, organizer, or source pages;
+- contact us through the channel listed below regarding this Privacy Policy, corrections to public information, copyright complaints, or privacy-related questions.
 
-## 12. Regional and Cross-Border Processing
+## 8. Children
 
-This Privacy Policy applies in regions where the LiveTong app is made available. Because our servers, networks, or technical service providers may be located outside your region, necessary technical data may be transferred to and processed in different regions. We take reasonable safeguards in accordance with applicable law.
+The App provides publicly available event-information services for general users and is not directed to children. If you are a minor, please use the App under the guidance of a parent or guardian.
+
+## 9. Changes to This Privacy Policy
+
+We may update this Privacy Policy as our features, service processes, applicable laws, or security practices change. Updated versions will be made available in the relevant in-App page or on our published privacy-policy page. The “Last Updated” date above will indicate when the policy was most recently revised.
+
+## 10. Contact Us
+
+If you have any questions about this Privacy Policy, public event information, copyright handling, complaints, or privacy protection, please contact us through the contact channel provided in the App's “About & Privacy” page.
